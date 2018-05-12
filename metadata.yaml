@@ -5,7 +5,7 @@ contributor:
     agent_name: Skidmore, Thornton D.
     alias: Skidmore, T. D.
     birthdate: 1884
-    deathdate: &id001 1956
+    deathdate: 1956
     gutenberg_agent_id: '41452'
     url: http://www.gutenberg.org/2009/agents/41452
 covers:
@@ -16,10 +16,12 @@ creator:
     agent_name: White, Samuel Alexander
     alias: White, S. A.
     birthdate: 1885
-    deathdate: *id001
+    deathdate: 1956
     gutenberg_agent_id: '41451'
     url: http://www.gutenberg.org/2009/agents/41451
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41962#Law-of-the-North--Originally-published-as-Empery---13-A-Story-of-Love-and-Battle-in-Rupert-s-_
 gutenberg_issued: '2013-02-01'
 gutenberg_type: Text
 identifiers:
